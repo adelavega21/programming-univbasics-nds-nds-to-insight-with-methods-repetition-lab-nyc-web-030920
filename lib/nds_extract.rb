@@ -55,6 +55,7 @@ def total_gross(source)
   
   while i < dir_names.length do
     dir_name = dir_names[i]
+    total += dir_to_earnings_hash[dir_name]
     
 end
 
