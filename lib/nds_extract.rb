@@ -54,6 +54,7 @@ def total_gross(source)
   total = 0
   
   while i < dir_names.length do
+    dir_name = dir_names[i]
     
 end
 
