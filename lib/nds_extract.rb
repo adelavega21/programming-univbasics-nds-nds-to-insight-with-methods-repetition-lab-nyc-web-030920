@@ -51,6 +51,8 @@ def total_gross(source)
   dir_names = list_of_directors(source)
   i = 0
   
+  total = 0
+  
   
 end
 
